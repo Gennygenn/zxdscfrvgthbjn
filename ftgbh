@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+    <title>Culinary Arts</title>
+       <link rel="stylesheet" href = "style.css">
+    </head>
+<body>
+  <div class="navbar">
+        <a href="index.html">Home</a>
+    <div class="dropdown">
+         <button class="dropbtn">Topics
+         <i class="fa fa-caret-down"></i>
+         </button>
+      <div class="dropdown-content">
+         <a href="Culinary.html">All About Culinary</a>
+         <a href="Education.html">Education</a>
+         <a href="Salaries.html">Salary & More</a>
+          </div>
+    </div>
+ </div>
+ <br>
+    <center><h1> Culinary Arts </h1></center>
+<center><image src="https://codehs.com/uploads/14cfe000e260e3fc8c453a16dd2ccdfc"
+width="500px" height="400px"></center>
+<center><p><h2>Culinary Arts is the art of preperation,cooking, presentation, and service of the food. Culinary arts is part science and part art.</h2></p></center>
+<br>
+<center><image src = "https://codehs.com/uploads/385df032f5b5db75907fc5c3a1cf9ad8"></image></center>
+<center><h2>Gordan Ramsay(most famous chef in the world)-British celebrity Chef and Restuaranteur</h2></center>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h6>Genesis & Makaylee <br> 12/06/2023 </h6>
+
+</html>
+</body>
+
